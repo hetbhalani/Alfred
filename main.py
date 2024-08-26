@@ -72,6 +72,7 @@ def processCommand(c):
 
 if __name__ == "__main__":
     speak("initializing Alfred...")
+    print("Alfred Activated!")
     
     while True: 
         print("Listening...")
